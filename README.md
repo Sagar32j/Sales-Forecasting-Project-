@@ -64,6 +64,3 @@ Matplotlib & Seaborn for visualizations
 Jupyter Notebook for analysis
 
 
-
-
-<img width="821" height="529" alt="image" src="https://github.com/user-attachments/assets/822531f8-e375-4080-b90a-c3e47fda80f9" />
