@@ -87,7 +87,7 @@ Jupyter Notebook for analysis
 
 ### 4. Count of Item_Fat_Content:
 
-> !Sales-Forecasting](https://github.com/Sagar32j/Sales-Forecasting-Project-/blob/main/Count%20of%20Item_Fat_Content.png)
+> ![Sales-Forecasting](https://github.com/Sagar32j/Sales-Forecasting-Project-/blob/main/Count%20of%20Item_Fat_Content.png)
 
 
 
