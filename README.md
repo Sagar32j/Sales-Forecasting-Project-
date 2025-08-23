@@ -64,3 +64,34 @@ Matplotlib & Seaborn for visualizations
 Jupyter Notebook for analysis
 
 
+
+
+## Few glimpses of EDA:
+### 1. Count of Outlet_Location_Type:
+
+> ![Sales-Forecasting](https://github.com/Sagar32j/Sales-Forecasting-Project-/blob/main/Count%20of%20Outlet_Location_Type.png)
+
+
+
+### 2. Count of Outlet_Establishment_Year:
+
+> ![Sales-Forecasting](https://github.com/Sagar32j/Sales-Forecasting-Project-/blob/main/Count%20of%20Outlet_Establishment_Year.png)
+
+
+
+### 3.Count of Item_Type:
+
+> ![Sales-Forecasting](https://github.com/Sagar32j/Sales-Forecasting-Project-/blob/main/Count%20of%20Item_Type.png)
+
+
+
+### 4. Count of Item_Fat_Content:
+
+> !Sales-Forecasting](https://github.com/Sagar32j/Sales-Forecasting-Project-/blob/main/Count%20of%20Item_Fat_Content.png)
+
+
+
+
+### 5. Correlation Heat Map:
+
+> ![Sales-Forecasting](https://github.com/Sagar32j/Sales-Forecasting-Project-/blob/main/Correlation%20Heat%20Map.png)
